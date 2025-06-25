@@ -1,0 +1,9 @@
+fastapi
+aiogram
+sqlalchemy
+uvicorn
+python-dotenv
+openai
+pydantic-settings
+asyncpg
+redis
